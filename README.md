@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AshishNith&color=blueviolet&style=flat-square)
 
+![GIF](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
+
 I'm learning Robotics, AI/ML, and DSA with a keen interest in Robotics, Artificial Intelligence (AI), Web Development, Machine Learning, and Open Source Contributions. I love exploring new technologies and constantly improving my skills.
 
 ## 🌱 About Me
