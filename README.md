@@ -2,13 +2,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AshishNith&color=blueviolet&style=flat-square)
 
-## About Me
-
 I'm learning Robotics, AI/ML, and DSA with a keen interest in Robotics, Artificial Intelligence (AI), Web Development, Machine Learning, and Open Source Contributions. I love exploring new technologies and constantly improving my skills.
 
-- 🌱 I’m currently learning ROS (Robotics Operating System), Python, OpenCV, cybersecurity, web development, and AI/ML.
-- 💼 I’m open to collaborating on open-source projects, freelance opportunities, and innovative robotics projects.
-- 📫 How to reach me: [ranjan.ashish9992@gmail.com](mailto:ranjan.ashish9992@gmail.com), [LinkedIn](https://www.linkedin.com/in/fictech/).
+## 🌱 About Me
+
+- 🎓 Currently learning ROS (Robotics Operating System), Python, OpenCV, cybersecurity, web development, and AI/ML.
+- 💼 Open to collaborating on open-source projects, freelance opportunities, and innovative robotics projects.
+- 📫 Reach me via email at [ranjan.ashish9992@gmail.com](mailto:ranjan.ashish9992@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/fictech/).
 
 ## 🔧 Technologies & Tools
 
@@ -36,11 +36,17 @@ I'm learning Robotics, AI/ML, and DSA with a keen interest in Robotics, Artifici
 
 ## 📘 Featured Projects
 
-### [Project Name](https://github.com/AshishNith/projectname)
-Description of your project. What technologies did you use? What problem does it solve? Add a link to the repository or a live demo.
+### [Robotics Society Website](https://github.com/AshishNith/RoboticsSocietyWebsite)
+Developed the official website for my college's robotics society using Flask and HTML/CSS. The site includes a blog, project showcase, and member portal.
 
-### [Another Project](https://github.com/AshishNith/anotherproject)
-Description of another project. Highlight the main features and what makes it unique. Add relevant links.
+### [Task Manager App](https://github.com/AshishNith/TaskManager)
+A Python-based task management app with a GUI. Features include task categorization, deadline setting, and progress tracking.
+
+### [Joystick Controlled Robot in ROS2](https://github.com/AshishNith/JoystickRobot)
+Designed a robot in ROS2 that can be controlled using a joystick module. Simulated in Gazebo for testing.
+
+### [To-Do App with Django](https://github.com/AshishNith/ToDoAppDjango)
+A web-based to-do list application developed using Django. Users can add, edit, and delete tasks with a clean and responsive UI.
 
 ## 🌐 Connect with Me
 
@@ -51,8 +57,8 @@ Description of another project. Highlight the main features and what makes it un
 ## 📄 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Title of Your Blog Post](https://ashishnith.github.io/MyWebsite/blog.html)
-- [Another Blog Post](https://ashishnith.github.io/MyWebsite/blog.html)
+- [Exploring Robotics with ROS](https://ashishnith.github.io/MyWebsite/blog.html)
+- [AI in Everyday Life](https://ashishnith.github.io/MyWebsite/blog.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💡 Fun Fact
